@@ -1,0 +1,32 @@
+
+.black{
+  background-color: #000;
+}
+
+.top{
+  height: 25px;
+}
+
+.col-md-2{
+  height: 50px;
+}
+
+.large{
+  height: 300px;
+}
+
+.gap{
+  height: 25px;
+}
+
+.gap-med{
+  height: 50px;
+}
+
+.col-md-3{
+  height: 50px;
+}
+
+.med-row{
+  height: 150px;
+}
